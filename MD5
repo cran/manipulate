@@ -1,0 +1,13 @@
+3a15e11fd95821d1ac6e94da03c4bdbe *DESCRIPTION
+bed5c561bc810cafdf74ff63f8ad0ff2 *NAMESPACE
+d24983e54344a4ef15e3e73dc2df5e4f *R/manipulate-internal.R
+3609950f975ff744c303d92c67a3377d *R/manipulate.R
+a1e6ed2407ae6a306adfd244456a7fda *man/button.Rd
+632a592fcf7d570290c1607703b938d7 *man/checkbox.Rd
+742bc15773c05ef01923f2a147be9fd8 *man/isAvailable.Rd
+7ef3709a55bb14f2c19f2dc2d30f0d33 *man/manipulate-package.Rd
+d39ad73738c42deaba6c8623c758666b *man/manipulate.Rd
+bb3b91ee423f0b48649616397d85b4ad *man/mouseclick.Rd
+e4b73e5d6f609aa2488637f2553c6b45 *man/picker.Rd
+4037c019ba0922690787509808427880 *man/slider.Rd
+709d3b5ffa2dd26b44ba3472da441470 *man/state.Rd
